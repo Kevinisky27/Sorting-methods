@@ -3,9 +3,6 @@ package gt.edu.umg.progra3.parcial1;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class StaticStructureTest {
 
     @Test
